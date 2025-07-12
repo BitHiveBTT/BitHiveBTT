@@ -356,7 +356,7 @@ The fixed total supply of 21 million BTT tokens follows a balanced allocation st
 **🌐 Main Links**
 
 * [Official Website](https://bithive.cc)
-* [Whitepaper/Gitbook](https://web3future.gitbook.io/bithive-btt)
+* [Whitepaper/Gitbook](https://bithive.gitbook.io/bithive-docs)
 * [Project Overview](https://www.yuque.com/ericc-yxcrc/BithiveBTT)
 
 **📬 Social Media**

@@ -356,7 +356,7 @@ BTT代币总供应量固定为2100万枚，根据平衡分配结构进行分配�
 **🌐 主要链接**
 
 * [官方网站](https://bithive.cc)
-* [白皮书/Gitbook](https://web3future.gitbook.io/bithive-btt)
+* [白皮书/Gitbook](https://bithive.gitbook.io/bithive-docs)
 * [项目概览](https://www.yuque.com/ericc-yxcrc/BithiveBTT)
 
 **📬 社交媒体**
